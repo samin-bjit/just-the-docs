@@ -37,7 +37,7 @@ jobs:
           ruby-version: '3.1'
           bundler-cache: true
           cache-version: 0
-          working-directory: '${{ github.workspace }}/docs'
+          working-directory: '${{ github.workspace }}'
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v3
