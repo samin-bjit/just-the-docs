@@ -1,3 +1,6 @@
+title: Home
+layout: home
+
 ## Security Tools
 
 ### PHPStan
